@@ -15,7 +15,18 @@ A responsive web application that allows users to fetch and visualize historical
 
 ---
 
+## Live Demo:
+
+[https://open-meteo-historical-weather.netlify.app/](https://open-meteo-historical-weather.netlify.app/)
+
+---
+
 ## 📸 Preview
+
+![Screenshot (17)](https://github.com/user-attachments/assets/07c316b9-8236-4346-b932-709c3c6a4def)
+
+
+![Screenshot (18)](https://github.com/user-attachments/assets/64ce610a-25b2-4259-98c9-a23af6f61111)
 
 
 ---
